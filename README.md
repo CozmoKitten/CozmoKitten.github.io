@@ -28,12 +28,12 @@
 
 <a id="source-link" class="meta-link" href="https://karinasirqueira.com" target="_blank">
   <i class="fa-solid fa-link"></i>
-  <span>About Me</span>
+  <span>Source</span>
 </a>
 
-<a id="yt-link" class="meta-link" href="PLACEHOLDER" target="_blank"> <!-- PLACEHOLDER -->
+<a id="yt-link" class="meta-link" href="AboutMe.html" target="_blank"> <!-- PLACEHOLDER -->
   <i class="fa-brands fa-youtube"></i>
-  <span>LinkTr.ee</span>
+  <span>About Me</span>
 </a>
 <!-- partial -->
   <script src='https://kit.fontawesome.com/944eb371a4.js'></script><script  src="./script.js"></script>
